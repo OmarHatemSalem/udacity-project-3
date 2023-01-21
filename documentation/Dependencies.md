@@ -6,3 +6,4 @@
 - RDS `PostgreSQL` Database
 - `Express`
 - `Angular` 
+- CircleCI
