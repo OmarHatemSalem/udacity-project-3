@@ -3,6 +3,6 @@
 - `Node` v14
 - `EB` Instance
 - S3 Bucket
-- `PostgreSQL` Database
+- RDS `PostgreSQL` Database
 - `Express`
 - `Angular` 
