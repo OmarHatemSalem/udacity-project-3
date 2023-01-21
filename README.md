@@ -66,10 +66,13 @@ The e2e tests are using Protractor and Jasmine.
 ---
 
 ## Screenshots
+
 Screenshots for the RDS, EB instance and S3 bucket are provided in the `screenshots` folder.
 
 ## Links
+
 Project is available at http://project3udacityaws.s3-website-us-east-1.amazonaws.com/
+
 CircleCI Status is at https://app.circleci.com/pipelines/github/OmarHatemSalem/udacity-project-3
 
 ## License
